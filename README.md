@@ -1,15 +1,16 @@
-<h1 align="center">Olá, sou o Bambi 👋</h1>
+<p align="center">
+  <img src="./banner.svg" alt="Bambi Manuel, Engenheiro Informático, Web e Mobile" width="100%">
+</p>
 
 <p align="center">
   <b>Formado em Engenharia Informática e Multimédia</b> · Especializado em desenvolvimento <b>web e mobile</b><br>
-  Mentor de programação · CEO da <b>B-Software House</b><br>
-  <i>"Transformando ideias em código"</i>
+  Mentor de programação · CEO da <b>B-Software House</b>
 </p>
 
 <p align="center">
   <a href="https://bambiportfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://bsoftwarehouse.pages.dev/"><img src="https://img.shields.io/badge/B--Software%20House-2563eb?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="mailto:bsoftwarehouse40@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contactobsh45@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -44,7 +45,7 @@
 
 | Projecto | Descrição |
 |---|---|
-| 📚 **Biblioteca Inspunyl** | Sistema de gestão bibliotecária para o ISUNYL |
+| 📚 **Biblioteca Inspunyl** | Sistema de gestão bibliotecária para o INSPUNYL |
 | 🎰 **Lotos-AI** | Plataforma de análise de sorteios |
 | 🛒 **XChange** | Mini bazar online do Soyo |
 | 🌐 **Portfólios e plataformas web** | Sites e sistemas para clientes da B-Software House |
@@ -62,4 +63,4 @@
 
 ### 🤝 Vamos conversar?
 
-Tens uma ideia ou um processo para automatizar? Fala comigo: **bsoftwarehouse40@gmail.com**
+Tens uma ideia ou um processo para automatizar? Fala comigo: **contactobsh45@gmail.com**
