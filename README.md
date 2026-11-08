@@ -22,7 +22,7 @@
 - 👨‍🏫 Mentor de programação
 - 📚 Criador da **Biblioteca Inspunyl**, o sistema de gestão bibliotecária do meu trabalho de fim de curso
 - 🌱 A aprender: novos conceitos, arquitecturas e ferramentas de IA
-- 🎯 Objectivos: fazer mestrado e contribuir para o desenvolvimento de Angola 🇦🇴
+- 🎯 Objectivos: fazer mestrado e contribuir para o desenvolvimento de Angola <img src="https://flagcdn.com/w20/ao.png" width="20" alt="Angola">
 
 ### 🛠️ Stack
 
