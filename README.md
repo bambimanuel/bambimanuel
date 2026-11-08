@@ -22,7 +22,7 @@
 - 👨‍🏫 Mentor de programação
 - 📚 Criador da **Biblioteca Inspunyl**, o sistema de gestão bibliotecária do meu trabalho de fim de curso
 - 🌱 A aprender: novos conceitos, arquitecturas e ferramentas de IA
-- 🎯 Objectivos: trabalhar numa grande equipa, fazer mestrado e contribuir para o desenvolvimento de Angola 🇦🇴
+- 🎯 Objectivos: fazer mestrado e contribuir para o desenvolvimento de Angola 🇦🇴
 
 ### 🛠️ Stack
 
@@ -58,7 +58,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bambimanuel&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bambimanuel&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/bambimanuel" alt="Contribuições no GitHub" width="90%" />
 </p>
 
 ### 🤝 Vamos conversar?
