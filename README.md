@@ -56,10 +56,23 @@
 
 | Projecto | Descrição |
 |---|---|
+| 🤖 **Friday AI** | Assistente virtual com comandos de voz e automação de tarefas, ao estilo do Jarvis |
 | 📚 **Biblioteca Inspunyl** | Sistema de gestão bibliotecária para o INSPUNYL |
 | 🎰 **Lotos-AI** | Plataforma de análise de sorteios |
 | 🛒 **XChange** | Mini bazar online do Soyo |
 | 🌐 **Portfólios e plataformas web** | Sites e sistemas para clientes da B-Software House |
+
+#### 🤖 Friday AI
+
+Uma **assistente virtual inteligente**, inspirada no Jarvis, que obedece a comandos de voz e trabalha por mim.
+
+- 🎙️ **Comandos de voz:** falo e ela executa
+- ⚙️ **Automação de tarefas:** realiza as tarefas que lhe peço
+- 📥 **Downloads:** descarrega ficheiros a pedido
+- 🎵 **Música:** toca as músicas que eu quiser
+- 💻 **Ajuda com programas:** auxilia no uso de aplicações e no desenvolvimento
+- 🔎 **Pesquisas:** procura e resume informação
+- ➕ E muito mais, a evoluir a cada versão
 
 ### 📊 Estatísticas
 
