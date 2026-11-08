@@ -41,6 +41,17 @@
   <img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,git,github&theme=dark" />
 </p>
 
+**Bases de dados em nuvem**
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tembo-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black" />
+</p>
+
 ### 📦 Projectos em destaque
 
 | Projecto | Descrição |
@@ -51,11 +62,6 @@
 | 🌐 **Portfólios e plataformas web** | Sites e sistemas para clientes da B-Software House |
 
 ### 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bambimanuel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambimanuel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bambimanuel&theme=tokyonight&hide_border=true" />
